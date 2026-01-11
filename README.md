@@ -2,7 +2,7 @@
 
 Explore how temperature affects LLM token probability distributions.
 
-![Temperature Visualizer](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Rspack](https://img.shields.io/badge/Rspack-1.3-orange)
+![Temperature Visualizer](https://img.shields.io/badge/React-19-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Rspack](https://img.shields.io/badge/Rspack-1.3-orange)
 
 ## Features
 
