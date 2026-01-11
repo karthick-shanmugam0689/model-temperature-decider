@@ -1,0 +1,36 @@
+{
+  "name": "temperature-decider",
+  "version": "1.0.0",
+  "description": "Visualize how temperature affects LLM token probability distributions",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "rspack serve --mode development",
+    "build": "rspack build --mode production",
+    "preview": "rspack serve --mode production",
+    "type-check": "tsc --noEmit",
+    "lint": "eslint src --ext .ts,.tsx"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "openai": "^4.73.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.15.0"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^1.3.6",
+    "@rspack/core": "^1.3.6",
+    "@types/node": "^20.8.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@typescript-eslint/eslint-plugin": "^6.7.0",
+    "@typescript-eslint/parser": "^6.7.0",
+    "dotenv": "^16.3.0",
+    "eslint": "^8.50.0",
+    "typescript": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
