@@ -64,7 +64,8 @@ For Ollama, ensure it's running locally on port 11434 (default).
 - GPT-4o
 
 ### Google Gemini
-- Gemini 2.5 Flash
+- Gemini 2.5 Flash.
+
 Unfortunately all other latest gemini models doesn't support log probabilities
 
 ### Ollama (Local)
