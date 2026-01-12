@@ -1,5 +1,5 @@
 {
-  "name": "temperature-decider",
+  "name": "model-temperature-decider",
   "version": "1.0.0",
   "description": "Visualize how temperature affects LLM token probability distributions",
   "private": true,
