@@ -80,3 +80,7 @@ Unfortunately all other latest gemini models doesn't support log probabilities
 
 Lower temperature → More deterministic (model picks highest probability token)
 Higher temperature → More creative (model samples from flatter distribution)
+
+https://github.com/user-attachments/assets/adafa6b7-2659-4d64-8b96-c22e2595d544
+
+
